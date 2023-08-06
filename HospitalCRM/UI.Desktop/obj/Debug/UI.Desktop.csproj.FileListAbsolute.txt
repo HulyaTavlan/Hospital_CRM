@@ -1,0 +1,73 @@
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.MainForm.resources
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.Patient.NewPatient.resources
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.Patient.FindPatient.resources
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\Toolbox.dll
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\Toolbox.pdb
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Text.Json.dll
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Memory.dll
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Buffers.dll
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\Toolbox.dll.config
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Text.Json.xml
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Memory.xml
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.ValueTuple.xml
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Buffers.xml
+C:\Users\ARIBILGI\Desktop\ilker hoca\HospitalCRM\UI.Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\Core.dll
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\Toolbox.dll
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Text.Json.dll
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Memory.dll
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Buffers.dll
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\Core.pdb
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\Toolbox.pdb
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\Toolbox.dll.config
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Text.Json.xml
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Memory.xml
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.ValueTuple.xml
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Buffers.xml
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.MainForm.resources
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.Patient.FindPatient.resources
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.Patient.NewPatient.resources
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\ARIBILGI\Desktop\HospitalCRM\UI.Desktop\obj\Debug\UI.Desktop.Patient.UpdatePatient.resources
